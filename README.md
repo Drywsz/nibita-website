@@ -21,7 +21,7 @@ Este repositório contém o código-fonte do site da Nova Igreja Batista de Itac
 
 Este projeto está disponível online via GitHub Pages. 
 
-<!-- Adicionar link do GitHub Pages aqui quando estiver configurado. -->
+https://Drywsz.github.io/nibita-website/
 
 ## ⚙️ Como Rodar Localmente
 
